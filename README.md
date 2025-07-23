@@ -2,7 +2,7 @@
 
 Sou microempreendedora e atuo como assistente virtual, aliando organização, comunicação e tecnologia para apoiar negócios e profissionais na rotina digital.
 
-Formada como Tecnóloga em Secretariado pela FATEC, atualmente cursando Técnico em Informática para Internet (SENAC) e Bacharelado em Tecnologia da Informação (UNIVESP). 
+Formada como Tecnóloga em Secretariado pela (FATEC), atualmente cursando Técnico em Informática para Internet (SENAC) e Bacharelado em Tecnologia da Informação (UNIVESP). 
 
 "**_Tenho paixão por unir criatividade, design e funcionalidade._**"
 
