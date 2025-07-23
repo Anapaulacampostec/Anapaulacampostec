@@ -1,13 +1,72 @@
-## Olá, eu sou Ana Paula 👋
+## Olá, eu sou Ana Paula Campos 👋
 
-Sou Secretária Executiva, microempreendedora e atualmente estudante do curso Técnico em Informática para Internet na instituição Senac de São Paulo
+Sou microempreendedora e atuo como assistente virtual, aliando organização, comunicação e tecnologia para apoiar negócios e profissionais na rotina digital.
+
+Formada como Tecnóloga em Secretariado pela FATEC, atualmente cursando Técnico em Informática para Internet (SENAC) e Bacharelado em Tecnologia da Informação (UNIVESP). 
+
+"**_Tenho paixão por unir criatividade, design e funcionalidade._**"
+
+---
+
+## 🎓 Formação Acadêmica
+
+- 🏫 **Tecnólogo em Secretariado** — FATEC Itaquaquecetuba *(Concluído)*
+- 💻 **Técnico em Informática para Internet** — SENAC *(Cursando)*
+- 🌐 **Bacharel em Tecnologia da Informação** — UNIVESP *(Cursando)*
+
+---
+
+## 📚 Cursos Profissionalizantes
+
+| Curso | Instituição | Carga Horária | Conclusão |
+|-------|-------------|----------------|------------|
+| Design UI/UX | SENAI | 60h | 2024 |
+| Power BI | SENAI | 20h | 2024 |
+| Editoração (Photoshop, Illustrator, InDesign) | SENAC | 108h | 2023 |
+| Programação Visual de Design Editorial | SENAC | 200h | 2023 |
+| Programação Python | SENAI | 80h | 2023 |
+| Java Foundations (Oracle) | SENAI | 120h | 2023 |
+| Wordpress I | SENAC | 30h | 2023 |
+| Front-End HTML/CSS | SENAC | 60h | 2023 |
+| Lógica de Programação | SENAC | 40h | 2023 |
+| Assistente Virtual | Just Virtual | 40h | 2021 |
+
+---
+
+## 🧠 Competências Técnicas
+
+- 🎨 **Design & UI/UX:** Interfaces responsivas, protótipos e experiência do usuário
+- 🖌️ **Design Gráfico:** Illustrator, Photoshop, InDesign para mídias digitais e impressas
+- 🧑‍💻 **Programação:** Python, Java, lógica orientada a objetos
+- 🌍 **Web:** HTML5, CSS3, Wordpress, Web Semântica
+- 🛠️ **Ferramentas:** Trello, Zoom, Google Agenda, Canvas
+  <!--- 📊 **Power BI:** Dashboards interativos e visualização de dados -->
+
+---
+
+## 💼 Contato & Redes
+
+
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ana-paula-campos-maria-274685125/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!--     <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+    	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ - ✉️ Email: *[adicione seu email aqui]*
+- 🌐 Site/Portfólio: *[adicione aqui se tiver]*
+- 📱 LinkedIn: *[adicione seu perfil]*
+-->
+
+---
 
  <div>
   <a href="https://github.com/Anapaulacampostec">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anapaulacampostec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anapaulacampostec&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<!-- <div style="display: inline_block"><br>
+
+ <!--   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -27,21 +86,8 @@ Sou Secretária Executiva, microempreendedora e atualmente estudante do curso T�
   <img align="right" alt="html" src="https://media.discordapp.net/attachments/1354843405343129861/1354843436410208519/kr.gif?ex=67e6c3c7&is=67e57247&hm=b0c9a5b337a36304a0bf33b6c0f5062e4c73560962fbcebc5378a6385a05c08f&=&width=150&height=150">
 </div> -->
   
-  ##
  
-<div> 
  
-<!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-<!--   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.linkedin.com/in/ana-paula-campos-maria-274685125/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
- 
-</div>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -71,4 +117,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
