@@ -60,11 +60,11 @@ Formada como Tecnóloga em Secretariado pela (FATEC), atualmente cursando Técni
 
 ---
 
- <div>
+<!-- <div>
   <a href="https://github.com/Anapaulacampostec">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anapaulacampostec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anapaulacampostec&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+</div> -->
 
  <!--   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -89,14 +89,14 @@ Formada como Tecnóloga em Secretariado pela (FATEC), atualmente cursando Técni
  
  
 <picture>
- <!-- <source
+  <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  /> -->
+  /> 
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
