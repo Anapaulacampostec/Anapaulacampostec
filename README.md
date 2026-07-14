@@ -39,7 +39,7 @@ Formada como Tecnóloga em Secretariado pela (FATEC), atualmente cursando Técni
 - 🖌️ **Design Gráfico:** Illustrator, Photoshop, InDesign para mídias digitais e impressas
 - 🧑‍💻 **Programação:** Python, Java, lógica orientada a objetos
 - 🌍 **Web:** HTML5, CSS3, Wordpress, Web Semântica
-- 🛠️ **Ferramentas:** Trello, Zoom, Google Agenda, Canvas
+- 🛠️ **Ferramentas:** Figma, Trello, Zoom, Google Agenda, Canvas
   <!--- 📊 **Power BI:** Dashboards interativos e visualização de dados -->
 
 ---
