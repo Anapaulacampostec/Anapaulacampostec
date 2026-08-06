@@ -40,7 +40,7 @@ Formada como Tecnóloga em Secretariado pela (FATEC), atualmente cursando Técni
 - 🧑‍💻 **Programação:** Python, Java, lógica orientada a objetos
 - 🌍 **Web:** HTML5, CSS3, Wordpress, Web Semântica
 - 🛠️ **Ferramentas:** Figma, Trello, Zoom, Google Agenda, Canvas
-  <!--- 📊 **Power BI:** Dashboards interativos e visualização de dados -->
+- 📊 **Power BI:** Dashboards interativos e visualização de dados 
 
 ---
 
